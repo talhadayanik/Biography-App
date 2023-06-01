@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Biography App</string>
+    <string name="name">H. Talha Dayanık</string>
+    <string name="btnHakkimda">HAKKIMDA</string>
+    <string name="btnGaleri">GALERİ</string>
+    <string name="btnIletisim">İLETİŞİM</string>
+    <string name="btnGithub">GITHUB</string>
+</resources>
