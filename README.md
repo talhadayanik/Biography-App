@@ -5,6 +5,6 @@ An android biography app for learning purposes
 -Glide
 
 ## Screenshots
-!(BiographyApp/ss0.png)
-!(BiographyApp/ss1.png)
-!(BiographyApp/ss2.png)
+![](BiographyApp/ss0.png)
+![](BiographyApp/ss1.png)
+![](BiographyApp/ss2.png)
